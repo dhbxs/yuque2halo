@@ -1,0 +1,305 @@
+{
+  "docs": [
+    {
+      "id": 238810651,
+      "doc_id": "438dfa504fa0c1ee3a23ca802db3dd85",
+      "updated": 1759062522000,
+      "properties": {
+        "title": "在PyCharm中搭建深度学习环境",
+        "urlname": "438dfa504fa0c1ee3a23ca802db3dd85",
+        "date": "2025-09-28 20:27:19",
+        "updated": "2025-09-28 20:28:42",
+        "description": "在 PyCharm 中搭建深度学习环境(基于 win10)预备环境：Anaconda3搭建环境 ：PyCharm + TensorFlow/TensorFlow-GPU + KerasPyCharm Version 2020.2.1TensorFlow Version 2.3.1Keras V..."
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810658,
+      "doc_id": "d2478e2f4e7ba663e54fb7e9a8614083",
+      "updated": 1759114635000,
+      "properties": {
+        "title": "软件工程期末总结",
+        "urlname": "d2478e2f4e7ba663e54fb7e9a8614083",
+        "date": "2025-09-28 20:27:22",
+        "updated": "2025-09-29 10:57:15",
+        "description": "软件工程期末总结第一章 概论软件工程大体经历了哪几个阶段？软件工程大体经历了 4 个阶段，分别是：第一阶段：程序设计阶段（20 世纪 40 年代中期～ 60 年代中期）第二阶段：软件=程序+文档阶段 （20 世纪 60 年代中期～ 70 年代中期））20 世纪 60 年代中期～ 60 年代末期..."
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810655,
+      "doc_id": "08a54636c4c405b89a522eb8c0a88867",
+      "updated": 1759062440000,
+      "properties": {
+        "title": "栈与队列的应用",
+        "urlname": "08a54636c4c405b89a522eb8c0a88867",
+        "date": "2025-09-28 20:27:20",
+        "updated": "2025-09-28 20:27:20"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810647,
+      "doc_id": "7c941128532dc5997f01f9cde67b94e6",
+      "updated": 1759062437000,
+      "properties": {
+        "title": "win10简洁之道",
+        "urlname": "7c941128532dc5997f01f9cde67b94e6",
+        "date": "2025-09-28 20:27:17",
+        "updated": "2025-09-28 20:27:17"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810638,
+      "doc_id": "f77c4d3aea851f13ba82036647c0a437",
+      "updated": 1759062434000,
+      "properties": {
+        "title": "Java基础学习路线",
+        "urlname": "f77c4d3aea851f13ba82036647c0a437",
+        "date": "2025-09-28 20:27:14",
+        "updated": "2025-09-28 20:27:14"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810644,
+      "doc_id": "f31090b905a420ba7db352c96c129ec0",
+      "updated": 1759062436000,
+      "properties": {
+        "title": "Python新手小练习",
+        "urlname": "f31090b905a420ba7db352c96c129ec0",
+        "date": "2025-09-28 20:27:16",
+        "updated": "2025-09-28 20:27:16"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810629,
+      "doc_id": "bdc8e912ac1cf95b15efcd9ed4dd0e80",
+      "updated": 1759062431000,
+      "properties": {
+        "title": "JAVA 基础学习记录",
+        "urlname": "bdc8e912ac1cf95b15efcd9ed4dd0e80",
+        "date": "2025-09-28 20:27:11",
+        "updated": "2025-09-28 20:27:11"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810632,
+      "doc_id": "589bcd24568ee45104cbcf29c9375250",
+      "updated": 1759062433000,
+      "properties": {
+        "title": "Java 小练",
+        "urlname": "589bcd24568ee45104cbcf29c9375250",
+        "date": "2025-09-28 20:27:13",
+        "updated": "2025-09-28 20:27:13"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810625,
+      "doc_id": "2339014a8a238bbde47247da661ded2c",
+      "updated": 1759062430000,
+      "properties": {
+        "title": "Hadoop集群搭建（1主2从）",
+        "urlname": "2339014a8a238bbde47247da661ded2c",
+        "date": "2025-09-28 20:27:10",
+        "updated": "2025-09-28 20:27:10"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810621,
+      "doc_id": "00cf57ed9b4b3ab1c5d95e791cdfc3dc",
+      "updated": 1759062428000,
+      "properties": {
+        "title": "Eclipse常用快捷键备忘",
+        "urlname": "00cf57ed9b4b3ab1c5d95e791cdfc3dc",
+        "date": "2025-09-28 20:27:08",
+        "updated": "2025-09-28 20:27:08"
+      },
+      "catalog": []
+    },
+    {
+      "id": 238810615,
+      "doc_id": "b175475679debcd9786dc5e48b285dac",
+      "updated": 1759062427000,
+      "properties": {
+        "title": "C语言实现顺序表的增删改查合并等操作",
+        "urlname": "b175475679debcd9786dc5e48b285dac",
+        "date": "2025-09-28 20:27:07",
+        "updated": "2025-09-28 20:27:07"
+      },
+      "catalog": []
+    }
+  ],
+  "catalog": [
+    {
+      "type": "DOC",
+      "title": "C语言实现顺序表的增删改查合并等操作",
+      "uuid": "Jtoqb0k087eYZFyq",
+      "url": "b175475679debcd9786dc5e48b285dac",
+      "prev_uuid": "",
+      "sibling_uuid": "EBrDAfUZOjSTlnT9",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810615,
+      "level": 0,
+      "id": 238810615,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Eclipse常用快捷键备忘",
+      "uuid": "EBrDAfUZOjSTlnT9",
+      "url": "00cf57ed9b4b3ab1c5d95e791cdfc3dc",
+      "prev_uuid": "Jtoqb0k087eYZFyq",
+      "sibling_uuid": "cHLFzbaOFhWmkoTt",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810621,
+      "level": 0,
+      "id": 238810621,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Hadoop集群搭建（1主2从）",
+      "uuid": "cHLFzbaOFhWmkoTt",
+      "url": "2339014a8a238bbde47247da661ded2c",
+      "prev_uuid": "EBrDAfUZOjSTlnT9",
+      "sibling_uuid": "xdKhMVgSuSdy0P9A",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810625,
+      "level": 0,
+      "id": 238810625,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "JAVA 基础学习记录",
+      "uuid": "xdKhMVgSuSdy0P9A",
+      "url": "bdc8e912ac1cf95b15efcd9ed4dd0e80",
+      "prev_uuid": "cHLFzbaOFhWmkoTt",
+      "sibling_uuid": "-IFpl9u2ZYPgCkM3",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810629,
+      "level": 0,
+      "id": 238810629,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Java 小练",
+      "uuid": "-IFpl9u2ZYPgCkM3",
+      "url": "589bcd24568ee45104cbcf29c9375250",
+      "prev_uuid": "xdKhMVgSuSdy0P9A",
+      "sibling_uuid": "q7ZDwRYI9EGgKY0G",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810632,
+      "level": 0,
+      "id": 238810632,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Java基础学习路线",
+      "uuid": "q7ZDwRYI9EGgKY0G",
+      "url": "f77c4d3aea851f13ba82036647c0a437",
+      "prev_uuid": "-IFpl9u2ZYPgCkM3",
+      "sibling_uuid": "24X2jaqP7PVkBFk7",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810638,
+      "level": 0,
+      "id": 238810638,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Python新手小练习",
+      "uuid": "24X2jaqP7PVkBFk7",
+      "url": "f31090b905a420ba7db352c96c129ec0",
+      "prev_uuid": "q7ZDwRYI9EGgKY0G",
+      "sibling_uuid": "PN_nzOf-hzZy9Cvu",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810644,
+      "level": 0,
+      "id": 238810644,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "win10简洁之道",
+      "uuid": "PN_nzOf-hzZy9Cvu",
+      "url": "7c941128532dc5997f01f9cde67b94e6",
+      "prev_uuid": "24X2jaqP7PVkBFk7",
+      "sibling_uuid": "DHm3LF9bv2U6TcV8",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810647,
+      "level": 0,
+      "id": 238810647,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "在PyCharm中搭建深度学习环境",
+      "uuid": "DHm3LF9bv2U6TcV8",
+      "url": "438dfa504fa0c1ee3a23ca802db3dd85",
+      "prev_uuid": "PN_nzOf-hzZy9Cvu",
+      "sibling_uuid": "seA0wGJCc-OV-ulK",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810651,
+      "level": 0,
+      "id": 238810651,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "栈与队列的应用",
+      "uuid": "seA0wGJCc-OV-ulK",
+      "url": "08a54636c4c405b89a522eb8c0a88867",
+      "prev_uuid": "DHm3LF9bv2U6TcV8",
+      "sibling_uuid": "-ezXyforZeAIHnIE",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810655,
+      "level": 0,
+      "id": 238810655,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "软件工程期末总结",
+      "uuid": "-ezXyforZeAIHnIE",
+      "url": "d2478e2f4e7ba663e54fb7e9a8614083",
+      "prev_uuid": "seA0wGJCc-OV-ulK",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 238810658,
+      "level": 0,
+      "id": 238810658,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
