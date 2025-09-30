@@ -14,19 +14,6 @@
       "catalog": []
     },
     {
-      "id": 238810658,
-      "doc_id": "d2478e2f4e7ba663e54fb7e9a8614083",
-      "updated": 1759221066000,
-      "properties": {
-        "title": "软件工程期末总结",
-        "urlname": "d2478e2f4e7ba663e54fb7e9a8614083",
-        "date": "2025-09-28 20:27:22",
-        "updated": "2025-09-30 16:31:06",
-        "description": "第一章 概论软件工程大体经历了哪几个阶段？软件工程大体经历了 4 个阶段，分别是：第一阶段：程序设计阶段（20 世纪 40 年代中期～ 60 年代中期）第二阶段：软件=程序+文档阶段 （20 世纪 60 年代中期～ 70 年代中期））20 世纪 60 年代中期～ 60 年代末期 （爆发软件危机..."
-      },
-      "catalog": []
-    },
-    {
       "id": 238810655,
       "doc_id": "08a54636c4c405b89a522eb8c0a88867",
       "updated": 1759062440000,
@@ -131,6 +118,20 @@
         "urlname": "b175475679debcd9786dc5e48b285dac",
         "date": "2025-09-28 20:27:07",
         "updated": "2025-09-28 20:27:07"
+      },
+      "catalog": []
+    },
+    {
+      "id": 239056266,
+      "doc_id": "gnl5u04m4ul9ttx2",
+      "updated": 1759222608000,
+      "properties": {
+        "title": "软件工程期末总结",
+        "urlname": "gnl5u04m4ul9ttx2",
+        "date": "2025-09-30 16:47:17",
+        "updated": "2025-09-30 16:56:48",
+        "cover": "/upload/7d2eb28a2b8cf24b3d33366ec003.png",
+        "description": "第一章 概论软件工程大体经历了哪几个阶段？软件工程大体经历了 4 个阶段，分别是：第一阶段：程序设计阶段（20 世纪 40 年代中期～ 60 年代中期）第二阶段：软件=程序+文档阶段 （20 世纪 60 年代中期～ 70 年代中期））20 世纪 60 年代中期～ 60 年代末期 （爆发软件危机..."
       },
       "catalog": []
     }
@@ -277,7 +278,7 @@
       "uuid": "seA0wGJCc-OV-ulK",
       "url": "08a54636c4c405b89a522eb8c0a88867",
       "prev_uuid": "DHm3LF9bv2U6TcV8",
-      "sibling_uuid": "-ezXyforZeAIHnIE",
+      "sibling_uuid": "VUicsKO_gKPTzdsK",
       "child_uuid": "",
       "parent_uuid": "",
       "doc_id": 238810655,
@@ -289,15 +290,15 @@
     {
       "type": "DOC",
       "title": "软件工程期末总结",
-      "uuid": "-ezXyforZeAIHnIE",
-      "url": "d2478e2f4e7ba663e54fb7e9a8614083",
+      "uuid": "VUicsKO_gKPTzdsK",
+      "url": "gnl5u04m4ul9ttx2",
       "prev_uuid": "seA0wGJCc-OV-ulK",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "",
-      "doc_id": 238810658,
+      "doc_id": 239056266,
       "level": 0,
-      "id": 238810658,
+      "id": 239056266,
       "open_window": 1,
       "visible": 1
     }
